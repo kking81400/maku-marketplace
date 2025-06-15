@@ -1,6 +1,7 @@
 {
   "name": "makumarket",
   "version": "0.1.0",
+  "homepage": "https://kking81400.github.io/maku-marketplace",
   "private": true,
   "dependencies": {
     "@tailwindcss/postcss": "^4.1.10",

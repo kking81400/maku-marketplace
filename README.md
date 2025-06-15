@@ -2,10 +2,10 @@
 
 این پروژه یک نمونه کار (Portfolio Project) برای نمایش یک بازارچه آنلاین مدرن است که با هدف اتصال تولیدکنندگان و هنرمندان محلی منطقه آزاد ماکو به خریداران ساخته شده است.
 
-[![اسکرین‌شات پروژه](https://placehold.co/800x400/A3E635/4D7C0F?text=Project+Screenshot)](https://your-live-demo-link.vercel.app)
-*(برای دیدن پروژه، روی عکس بالا کلیک کنید یا از لینک زیر استفاده نمایید)*
 
-**[لینک دموی زنده پروژه](https://your-live-demo-link.vercel.app)**
+*(برای دیدن پروژه، روی لینک زیر استفاده نمایید)*
+
+**[لینک دموی زنده پروژه](https://kking81400.github.io/maku-marketplace/)**
 
 ---
 
@@ -43,7 +43,7 @@
 
 1.  **کلون کردن پروژه:**
     ```bash
-    git clone [https://github.com/your-username/maku-marketplace.git](https://github.com/your-username/maku-marketplace.git)
+    git clone [https://github.com/kking81400/maku-marketplace](https://github.com/kking81400/maku-marketplace)
     ```
 
 2.  **ورود به پوشه پروژه:**
