@@ -4,7 +4,7 @@ import React from 'react';
 import { Github, Linkedin, Mail } from 'lucide-react';
 
 // می‌توانید لینک عکس خود را در اینجا قرار دهید
-const profileImageUrl = 'https://placehold.co/150x150/A3E635/4D7C0F?text=ME';
+const profileImageUrl = 'https://placehold.co/150x150/A3E635/4D7C0F?text=Ali Asadzadeh';
 
 export const AboutPage = () => {
     return (
