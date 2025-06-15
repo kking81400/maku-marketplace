@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c1867b1e.css",
-    "main.js": "/static/js/main.bd74aa58.js",
-    "index.html": "/index.html",
-    "main.c1867b1e.css.map": "/static/css/main.c1867b1e.css.map",
-    "main.bd74aa58.js.map": "/static/js/main.bd74aa58.js.map"
+    "main.css": "/maku-marketplace/static/css/main.c1867b1e.css",
+    "main.js": "/maku-marketplace/static/js/main.bd74aa58.js",
+    "index.html": "/maku-marketplace/index.html",
+    "main.c1867b1e.css.map": "/maku-marketplace/static/css/main.c1867b1e.css.map",
+    "main.bd74aa58.js.map": "/maku-marketplace/static/js/main.bd74aa58.js.map"
   },
   "entrypoints": [
     "static/css/main.c1867b1e.css",
